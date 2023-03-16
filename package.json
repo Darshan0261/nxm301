@@ -1,0 +1,23 @@
+{
+  "name": "nxm301",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshan0261/nxm301.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darshan0261/nxm301/issues"
+  },
+  "homepage": "https://github.com/Darshan0261/nxm301#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
